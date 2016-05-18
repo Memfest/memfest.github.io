@@ -1,0 +1,47 @@
+html {
+    background-color: #CEE;
+    font-family: garamond;
+    font-size: 1.5em;
+    color: #333;
+}
+
+a.social-media {
+    text-align: right;
+    margin: 0px;
+    display: block;
+}
+h1 {
+    font-size: 1.4em;
+}
+body {
+    background-color: #eff;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 1em 4em;
+    text-rendering: optimizeLegibility;
+}
+h1, nav {
+    text-align: center;
+}
+nav.img {
+    
+}
+
+body>img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p {
+    text-align: left;
+}
+
+a, a:link, a:visited, a:active {
+    color: #488;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
